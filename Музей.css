@@ -1,0 +1,52 @@
+body {
+    background-color:white;
+}
+
+h1 {
+    font-family: 'Cormorant Garamond', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Cormorant Garamond', sans-serif;
+    text-align: center;
+}
+
+.leftimg {
+    float: left;
+    margin: 0px 20px 0px 5px;
+    width: 550px; 
+    height: 366px;
+} 
+
+.description {
+    margin: 2%;
+    text-align: justify;
+}
+
+.tab { 
+    text-indent:40px 
+}
+
+p {
+    font-family: 'Manrope', sans-serif;
+    
+}
+
+.subhead {
+text-decoration: underline;
+}
+.date {
+    font-family:'Sofia Sans Semi Condensed', sans-serif;
+    font-style: italic;
+    text-align: end;
+    color: gray;
+}
+.accordion-body {
+    font-family: 'Manrope', sans-serif;
+    text-align: justify;
+}
+.accordion-button {
+    font-size: 23px;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
